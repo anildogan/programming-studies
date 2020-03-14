@@ -23,6 +23,7 @@ public class BinaryTree {
         b.root.left = new Node(3);
         b.root.left.right = new Node(9);
     }
+    
  
 
     }
