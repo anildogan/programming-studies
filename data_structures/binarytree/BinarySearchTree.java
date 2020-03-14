@@ -21,13 +21,6 @@ public class BinarySearchTree {
      void insert(int key){
         
         root = insertRec(this.root, key);
-        //  else{
-        //      if(key < root.data){
-        //        Node temp = new Node(key);
-
-
-        //      }
-        //  }
         
      }
      Node n(int key) {
